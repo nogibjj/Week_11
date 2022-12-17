@@ -1,9 +1,5 @@
 pytest
 pylint
-click
+black
 ipython
-fastapi
-uvicorn[standard]
-dask
-dask[distributed]
-jupyter
+
