@@ -1,0 +1,9 @@
+pytest
+pylint
+click
+ipython
+fastapi
+uvicorn[standard]
+dask
+dask[distributed]
+jupyter
